@@ -12,3 +12,16 @@ ferramenta computacional com interface gráfica destinada à automatização dos
 culos de gerenciamento de risco e ao auxílio no projeto de SPDA. Para validação
 da aplicação, foi realizado um estudo de caso em uma subestação de alta tensão,
 utilizando dados reais da instalação.
+
+A ferramenta permite calcular automaticamente:
+
+- Áreas equivalentes de exposição;
+- Número anual de eventos perigosos;
+- Probabilidades de dano;
+- Componentes de risco;
+- Perdas associadas;
+- Riscos R1, R2 e R3;
+- Frequência de danos (Norma 2026);
+- Indicadores comparativos entre risco calculado e risco tolerável.
+
+O sistema foi desenvolvido como parte do Trabalho de Conclusão de Curso em Engenharia Elétrica.
